@@ -5,7 +5,7 @@
 </a>
 
 </h1>
-<h3 align="center">Adds a selectable tower that replaces the current tower projectiles and gain it's ability</h3>
+<h3 align="center">Choose a tower; your current tower now fires that tower’s projectiles and gains its ability.</h3>
 <h1 align="center">Replace Projectile and Ability</h1>
 
 
