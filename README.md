@@ -6,7 +6,7 @@
 
 </h1>
 <h3 align="center">Choose a tower; your current tower now fires that tower’s projectile ability.</h3>
-<h1 align="center">Replace Projectile and Ability</h1>
+<h1 align="center">Choose Projectile Ability</h1>
 
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
