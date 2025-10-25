@@ -5,8 +5,8 @@
 </a>
 
 </h1>
-<h3 align="center">Adds a selectable ability that replaces tower projectiles with ability projectiles</h3>
-<h1 align="center">Replace Projectile Ability</h1>
+<h3 align="center">Adds a selectable tower that replaces the current tower projectiles and gain it's ability</h3>
+<h1 align="center">Replace Projectile and Ability</h1>
 
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
